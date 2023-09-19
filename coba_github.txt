@@ -1,0 +1,12 @@
+yang akan saya pelajari jika mau menjadi web developer
+      # front-end
+        - HTML
+        - CSS
+        - JAvascript
+        - npm
+        - git 
+        - github
+        - react.js
+        - tailwind CSS
+        
+      
