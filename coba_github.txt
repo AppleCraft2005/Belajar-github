@@ -1,16 +1,11 @@
-yang akan saya pelajari jika mau menjadi web developer
-      # front-end
-        - HTML
-        - CSS
-        - JAvascript
-        - npm
-        - git 
-        - github
-        - react.js
-        - tailwind CSS
+Content yang sudah saya tonton di WPU :
 
-      # Back-end
-        - Node.js
+1.HTML dasar
+2.CSS dasar
+3.CSS layout
+4.CSS3
+5.javascript (separuh)
+6.Git dan Github (sedang ditonton)
         
         
       
