@@ -4,6 +4,7 @@ Content yang sudah saya tonton di WPU :
 2.CSS dasar
 3.CSS layout
 4.CSS3
+5.tutoril VS code
 5.javascript (separuh)
 6.Git dan Github (sedang ditonton)
         
